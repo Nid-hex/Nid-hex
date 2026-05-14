@@ -5,7 +5,7 @@
 
 [![Portfolio](https://badgen.net/badge/Portfolio/Visit%20Now/1f2937?icon=chrome&labelColor=black)](url)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/374151?icon=linkedin&labelColor=black)](https://www.linkedin.com/in/nidhi-kmari)
-[![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nidhimehata7896@gmail.com)
+[![Email](https://badgen.net/badge/Email/Send%20Mail/4b5563?icon=gmail&labelColor=black)](mailto:nidhi07290@gmail.com)
 [![Resume](https://badgen.net/badge/Resume/View/4b5563?icon=document&labelColor=black)](url)
 
 
